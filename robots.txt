@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dongyu19920904.github.io/nuwa-ai-trade-dispute-record/sitemap.xml
+
